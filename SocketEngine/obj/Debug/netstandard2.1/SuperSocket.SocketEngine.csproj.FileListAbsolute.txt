@@ -1,0 +1,13 @@
+D:\MyProject\Programming\CSharp\SuperSocketStudy\SocketEngine\bin\Debug\netstandard2.1\SuperSocket.Common.dll
+D:\MyProject\Programming\CSharp\SuperSocketStudy\SocketEngine\bin\Debug\netstandard2.1\SuperSocket.SocketBase.dll
+D:\MyProject\Programming\CSharp\SuperSocketStudy\SocketEngine\obj\Debug\netstandard2.1\SuperSocket.SocketEngine.csprojAssemblyReference.cache
+D:\MyProject\Programming\CSharp\SuperSocketStudy\SocketEngine\obj\Debug\netstandard2.1\SuperSocket.SocketEngine.AssemblyInfoInputs.cache
+D:\MyProject\Programming\CSharp\SuperSocketStudy\SocketEngine\obj\Debug\netstandard2.1\SuperSocket.SocketEngine.AssemblyInfo.cs
+D:\MyProject\Programming\CSharp\SuperSocketStudy\SocketEngine\bin\Debug\netstandard2.1\SuperSocket.SocketEngine.deps.json
+D:\MyProject\Programming\CSharp\SuperSocketStudy\SocketEngine\bin\Debug\netstandard2.1\SuperSocket.SocketEngine.dll
+D:\MyProject\Programming\CSharp\SuperSocketStudy\SocketEngine\bin\Debug\netstandard2.1\SuperSocket.SocketEngine.pdb
+D:\MyProject\Programming\CSharp\SuperSocketStudy\SocketEngine\bin\Debug\netstandard2.1\SuperSocket.Common.pdb
+D:\MyProject\Programming\CSharp\SuperSocketStudy\SocketEngine\bin\Debug\netstandard2.1\SuperSocket.SocketBase.pdb
+D:\MyProject\Programming\CSharp\SuperSocketStudy\SocketEngine\obj\Debug\netstandard2.1\SuperSocket.SocketEngine.csproj.CopyComplete
+D:\MyProject\Programming\CSharp\SuperSocketStudy\SocketEngine\obj\Debug\netstandard2.1\SuperSocket.SocketEngine.dll
+D:\MyProject\Programming\CSharp\SuperSocketStudy\SocketEngine\obj\Debug\netstandard2.1\SuperSocket.SocketEngine.pdb

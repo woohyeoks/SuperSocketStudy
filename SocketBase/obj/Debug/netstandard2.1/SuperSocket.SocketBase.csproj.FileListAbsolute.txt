@@ -1,0 +1,11 @@
+D:\MyProject\Programming\CSharp\SuperSocketStudy\SocketBase\bin\Debug\netstandard2.1\SuperSocket.Common.dll
+D:\MyProject\Programming\CSharp\SuperSocketStudy\SocketBase\obj\Debug\netstandard2.1\SuperSocket.SocketBase.csprojAssemblyReference.cache
+D:\MyProject\Programming\CSharp\SuperSocketStudy\SocketBase\obj\Debug\netstandard2.1\SuperSocket.SocketBase.AssemblyInfoInputs.cache
+D:\MyProject\Programming\CSharp\SuperSocketStudy\SocketBase\obj\Debug\netstandard2.1\SuperSocket.SocketBase.AssemblyInfo.cs
+D:\MyProject\Programming\CSharp\SuperSocketStudy\SocketBase\bin\Debug\netstandard2.1\SuperSocket.SocketBase.deps.json
+D:\MyProject\Programming\CSharp\SuperSocketStudy\SocketBase\bin\Debug\netstandard2.1\SuperSocket.SocketBase.dll
+D:\MyProject\Programming\CSharp\SuperSocketStudy\SocketBase\bin\Debug\netstandard2.1\SuperSocket.SocketBase.pdb
+D:\MyProject\Programming\CSharp\SuperSocketStudy\SocketBase\bin\Debug\netstandard2.1\SuperSocket.Common.pdb
+D:\MyProject\Programming\CSharp\SuperSocketStudy\SocketBase\obj\Debug\netstandard2.1\SuperSocket.SocketBase.csproj.CopyComplete
+D:\MyProject\Programming\CSharp\SuperSocketStudy\SocketBase\obj\Debug\netstandard2.1\SuperSocket.SocketBase.dll
+D:\MyProject\Programming\CSharp\SuperSocketStudy\SocketBase\obj\Debug\netstandard2.1\SuperSocket.SocketBase.pdb
